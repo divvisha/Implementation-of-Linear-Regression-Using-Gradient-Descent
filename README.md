@@ -31,7 +31,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-data=pd.read_csv("/content/ex1.txt",header=None)
+data=pd.read_csv("/content/ex1 (1).txt",header=None)
 
 print("Profit prediction graph:")
 plt.scatter(data[0],data[1])
